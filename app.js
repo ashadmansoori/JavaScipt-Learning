@@ -25,6 +25,9 @@
 // var num1 = 5;
 // var num2 = 10;
 // console.log(num1 + num2);
+// var num1 = 5;
+// num1 = 8;
+// console.log(num1);
 
 
 // alert & prompt
